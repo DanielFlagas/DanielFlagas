@@ -8,9 +8,9 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo Analise Desenvolvimento de Sistemas e Web Design
+🎓 Eu estudo Análise Desenvolvimento de Sistemas e Web Design
 
-👩‍💻 Atualmente eu trabalho como 3 Sargento no Exercito Brasileiro
+👩‍💻 Atualmente eu trabalho como Sargento no Exercito Brasileiro
 
 🔎 Também sou curioso sobre Pentest e Software Livre
 
