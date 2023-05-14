@@ -39,11 +39,9 @@
 
 ### Cursos realizados 🤓
 
-Fundamentos sobre Leis Gerais de Proteção de Dados - ENAP
-Cybersecurity Essentials - CISCO
-Lógica de Programação - UDEMY
-
-
+Fundamentos sobre Leis Gerais de Proteção de Dados - ENAP |
+Cybersecurity Essentials - CISCO |
+Lógica de Programação - UDEMY |
 
 ### Entre em contato comigo! 📭
 <div>
