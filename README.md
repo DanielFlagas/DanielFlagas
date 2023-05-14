@@ -14,8 +14,6 @@
 
 🔎 Também sou curioso sobre Pentest e Software Livre
 
-✒️ Eu gosto de no meu tempo livre Ler um bom livro e Assistir um filme de terror antigo;
-
 📚 Lendo: Estruturas de dados e algoritimos com Javascript - Loiane Groner
 
 **Tecnologias e Ferramentas**
