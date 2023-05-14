@@ -7,7 +7,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Analise Desenvolvimento de Sistemas] | [Web Design]([https://cubos.academy/cursos/desenvolvimento-de-software-v2](https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/learn/lecture/36730826#overview))] @ [ [Udemy Academy]
+🎓 Eu estudo Analise Desenvolvimento de Sistemas e Web Design
 
 👩‍💻 Atualmente eu trabalho como 3 Sargento no Exercito Brasileiro
 
@@ -32,9 +32,7 @@
 
 ### Eu estou estudando... 🧩
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<img height="180em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
