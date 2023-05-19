@@ -10,7 +10,7 @@
 
 🎓 Eu estudo Análise Desenvolvimento de Sistemas e Web Design
 
-👩‍💻 Atualmente eu trabalho como Sargento no Exercito Brasileiro
+👩‍💻 Atualmente trabalho como Sargento no Exercito Brasileiro
 
 🔎 Também sou curioso sobre Pentest e Software Livre
 
