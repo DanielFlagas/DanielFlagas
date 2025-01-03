@@ -23,4 +23,4 @@ Minha jornada na programação vem se intensificando com passar dos meses, adiqu
 
 
 ## Extracurriculares
- Fundamentos sobre Leis Gerais de Proteção de Dados - ENAP | Cybersecurity Essentials - CISCO | Lógica de Programação - UDEMY | Inglês básico A1   
+ Fundamentos sobre Leis Gerais de Proteção de Dados - ENAP | Cybersecurity Essentials - CISCO | Lógica de Programação - UDEMY | Inglês básico A1 | Operador de Computador
