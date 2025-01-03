@@ -1,7 +1,7 @@
-# Daniel Flagas - Analista de Sistemas
+# Daniel Flagas - Análista de Sistemas
 <a href="https://linkedin.com/in/daniel-flagas-82a643264"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Estou me graduando recentemente em Analise e Desenvolvimento de Sistemas
+Estou me graduando recentemente em Análise e Desenvolvimento de Sistemas
 ## Objetivos
 
 Minha jornada na programação vem se intensificando com passar dos meses, adiquirindo conhecimentos da área de tecnologia
