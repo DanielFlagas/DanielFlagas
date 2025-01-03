@@ -18,6 +18,15 @@ Minha jornada na programação vem se intensificando com passar dos meses, adiqu
 
 ## Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=100px width=100px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=100px width=100px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height=100px width=100px />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height=100px width=100px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height=100px width=100px/>
+
+
+## Habilidades Técnicas
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=100px width=100px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height=100px width=100px/> <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/128/Excel-icon.png" width="100" height="100"> <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/128/Word-icon.png" width="100" height="100">
+
+
+
+          
+          
            
 
 
