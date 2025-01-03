@@ -22,5 +22,5 @@ Minha jornada na programação vem se intensificando com passar dos meses, adiqu
 
 
 
-## Projetos
-- Automação com BOT utilizando Python 
+## Extracurriculares
+ Fundamentos sobre Leis Gerais de Proteção de Dados - ENAP | Cybersecurity Essentials - CISCO | Lógica de Programação - UDEMY | Inglês básico A1   
