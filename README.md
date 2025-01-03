@@ -8,7 +8,7 @@ Minha jornada na programação vem se intensificando com passar dos meses, adiqu
 
 ## Skills
 
-| Habilidades                                   | Utilizando em projetos     |
+| Habilidades                                   | Utilização em projetos     |
 |-----------------------------------------------|----------------------------|
 | HTML5 + CSS5         | Criação de Web Site Castellani|
 
