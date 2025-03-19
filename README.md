@@ -23,7 +23,7 @@ Minha jornada na programação vem se intensificando com passar dos meses, adiqu
 ## Habilidades Técnicas
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=50px width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height=50px width=50px/> <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/128/Excel-icon.png" width="50" height="50"> <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/128/Word-icon.png" width="50" height="50">
 
- [![DanielFlagas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFlagas&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+ [![DanielFlagas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFlagas&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
